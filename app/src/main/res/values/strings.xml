@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="record_start">녹화 시작</string>
+    <string name="record_stop">녹화 중지</string>
+    <string name="permission_denied">필수 권한이 거부되었습니다.</string>
+    <string name="preview_failed">미리보기 설정 실패</string>
+    <string name="record_session_failed">녹화 세션 설정 실패</string>
+    <string name="record_complete">녹화 완료: %1$s</string>
+</resources>
